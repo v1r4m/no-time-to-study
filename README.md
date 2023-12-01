@@ -8,3 +8,6 @@
 <img width="944" alt="image" src="https://github.com/v1r4m/no-time-to-study/assets/26866063/9ca07602-be00-46be-a4a6-5ed5c0634e17">
 
 - 놀 시간은 많지만 공부할 시간은 없어요
+
+# Usage
+- simply paste the script to console
